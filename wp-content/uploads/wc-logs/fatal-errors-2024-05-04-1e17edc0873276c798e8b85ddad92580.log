@@ -1,0 +1,12 @@
+2024-05-04T21:30:34+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in /home/javalge/escard.ge/wp-content/plugins/plugandpay-woocommerce-tbc-credit-card-payment-gateway/includes/class-plugandpay-wc-tbc-credit-card-background-tasks.php:124
+Stack trace:
+#0 /home/javalge/escard.ge/wp-includes/class-wp-hook.php(324): PlugandPay_WC_TBC_Credit_Card_Background_Tasks->check_tbc_ufc_order_status(true, Object(WC_Subscription))
+#1 /home/javalge/escard.ge/wp-includes/plugin.php(205): WP_Hook->apply_filters(true, Array)
+#2 /home/javalge/escard.ge/wp-content/plugins/woocommerce/includes/wc-order-functions.php(1008): apply_filters('woocommerce_can...', true, Object(WC_Subscription))
+#3 /home/javalge/escard.ge/wp-includes/class-wp-hook.php(324): wc_cancel_unpaid_orders()
+#4 /home/javalge/escard.ge/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#5 /home/javalge/escard.ge/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#6 /home/javalge/escard.ge/wp-cron.php(191): do_action_ref_array('woocommerce_can...', Array)
+#7 {main}
+  thrown in /home/javalge/escard.ge/wp-content/plugins/plugandpay-woocommerce-tbc-credit-card-payment-gateway/includes/class-plugandpay-wc-tbc-credit-card-background-tasks.php on line 124
+

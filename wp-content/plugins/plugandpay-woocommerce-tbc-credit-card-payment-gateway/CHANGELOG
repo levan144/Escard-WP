@@ -1,0 +1,141 @@
+== Premium ==
+4.1.0
+feat: (UFC) Check order status before canceling via WooCommerce hook
+refactor: (UFC) Background tasks class
+refactor: (UFC) Shorter methods
+chore: WC tested up to: 5.6
+
+4.0.1
+fix: Set default gateway TBC (Checkout)
+
+4.0.0
+feat: (Checkout) Merchant accounts per currency
+feat: (Checkout) Pre authorization payment method
+feat: (Checkout) Configurable payment methods (ib, qr etc.)
+feat: (Checkout) Logos change as per configurable payment methods
+feat: (Checkout) Refunds
+feat: (Checkout) Callback url
+feat: (Checkout) Pass language parameter
+feat: (Checkout) Hide gateway if currency not supported
+feat: (Checkout) Setting allows to skip the bank-side transaction results page
+feat: (Checkout) Pass cmsInfo paremeter with plugin version
+fix: (Checkout) Initially failed order status is never changed on successful retry
+fix: (Checkout) Do not show required fields error when gateway is disabled
+
+3.0.1
+fix: Set default gateway UFC
+
+3.0.0
+feat: TBC (UFC) save card checked by default
+feat: TBC (UFC) save card checkbox label editable from settings
+feat: TBC (Checkout) API implemented
+chore: WC tested up to 5.2
+
+2.5.0
+feat: WooCommerce Subscriptions plugin compatibility
+feat: Keep track of refund transaction id in order notes
+fix: Payment token would not validate and save
+fix: Saved card data missing in my account payment methods
+fix: Redirecting user to technical fail url during charge and save method
+chore: WC tested up to 4.9.0
+
+2.4.0
+feat: Save card / tokenization
+chore: WC tested up to 4.8.0
+refactor: Update and modernize various internal methods
+
+2.3.0
+feat: Pay with Ertguli points
+fix: Second refund cannot be done after partial reversal
+refactor: Update and modernize various internal methods
+refactor: Clarify that server cron is optional
+refactor: Default certificate is not needed (removed)
+chore: Remove currency conversion dependencies
+chore: Drop support for securepay server
+chore: WC tested up to 4.7.0
+
+2.2.0
+feat: Partial refund
+chore: Remove unnecessary gettext translations
+
+2.1.1
+feat: Biller parameter
+feat: WPML compatibility (order button text)
+fix: Improve IP detection where file_get_contents is disabled
+
+2.1.0
+chore: Change plugin API name (remove v2)
+docs: EULA link
+docs: Update plugin descriptions
+feat: Customizable order button text
+feat: Show external shop IP on plugin settings page
+fix: On fresh plugin activation, ok/fail input description was missing default value
+
+2.0.9
+fix: Add missing merchant host url to redirect template
+
+2.0.8
+feat: Merchant host option (securepay, ecommerce)
+chore: Less cryptic gettext domain pp-woo-tbc-cc -> tbc-gateway
+feat: Improve whoami, from gpost plugin
+refactor: Factory class introduced
+
+2.0.7
+feat: Manually check transaction status on order page
+docs: Add WC requires and WC tested up to tags
+
+2.0.6
+fix: payment_form_url (404) WordPress installed in subdirectory
+fix: Better language detection and transformation (GE->KA)
+
+2.0.5
+feat: Payment form language override option
+
+2.0.4
+fix: Tbc->description must only contain latin characters
+feat: Load plugin translation files (ka_GE)
+docs: Update README.md
+fix: Visa / Mastercard logo – white background and spacing in svg
+chore: Add white stroke to TBC logo
+fix: TBC logo not visible on white background
+
+2.0.3
+fix: error on capture still displays success message
+fix: tbc icons are displayed on all gateways
+
+2.0.2
+fix: capturing authorized payment
+chore: WPcs compatibility efforts started
+chore: log file name based on gateway id
+fix: Uncaught Error: Class ‘TbcPayProcessor’ not found
+
+2.0.1
+feat: TBC/VISA/MASTERCARD logos on checkout
+chore: improve file organization and class names
+chore: add CHANGELOG file
+fix: check if Woo exists before loading plugin
+
+2.0.0
+feat: DMS (authorize)
+feat: full refunds
+feat: multimerchant (USD/GEL/EUR)
+chore: add POT file for translations
+chore: rename plugin to “plug-and-pay”
+feat: log close_business_day results
+fix: Woo 3.* compatibility issues
+chore: update compser dependencies
+chore: improve settings page
+
+== Free ==
+1.0.2
+chore: update compser dependencies
+fix: typo get_total is a method
+
+1.0.1
+fix: Woo 3.* compatibility issues
+
+1.0.0
+feat: SMS (capture)
+feat: OK/FAIL url generation
+feat: close business day
+feat: comprehensive event logging

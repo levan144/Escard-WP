@@ -1,0 +1,9 @@
+2024-05-03T09:30:15+00:00 INFO Process subscription, order id: 5724
+2024-05-03T09:30:15+00:00 INFO Using merchant account GEL
+2024-05-03T09:30:15+00:00 INFO Capture a saved card...
+2024-05-03T09:30:23+00:00 ERROR Charging a saved card failed Response: {"TRANSACTION_ID":"K5JSql2S9NLZJCDTQgJlAXPxNJ8=","RESULT":"FAILED","RESULT_CODE":"116"}
+2024-05-03T09:30:23+00:00 INFO  TBC capture saved card failed! transaction id: K5JSql2S9NLZJCDTQgJlAXPxNJ8=, order id: 5724
+2024-05-03T20:08:56+00:00 INFO Using merchant account GEL
+2024-05-03T20:08:56+00:00 INFO Order id: 5747 - amount: 15 981, language: GE
+2024-05-03T20:08:56+00:00 INFO Capture and save...
+2024-05-03T20:08:56+00:00 INFO Success ~ Order id: 5747 -> transaction id: AimYPBoQtN4EiXvdzwrILBBk1EI= obtained successfully, payment action: capture_and_save, redirecting...

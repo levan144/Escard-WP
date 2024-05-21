@@ -1,0 +1,15 @@
+.moss_post_type_param p:before{content:"Post Type: ";}
+.moss_layout_param p:before{content:"Layout: ";}
+.moss_label_param p:before{content:"Label: ";}
+.moss_placeholder_param p:before{content:"Placeholder: ";}
+.moss_posts_per_page_param p:before{content:"Results per page: ";}
+.moss_category_param p:before{content:"Category: ";}
+.moss_order_param p:before{content:"Order: ";}
+.wpb_vc_param_value p{opacity:.5;margin:5px 0;}
+
+.moss-kc-icon{
+	background-image:url(../img/icon-blue.png)!important;
+	background-size: 60%!important;
+    background-position: center 5px;
+    height: 70px!important;
+}

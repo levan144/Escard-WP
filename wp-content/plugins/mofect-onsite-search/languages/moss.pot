@@ -1,0 +1,544 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Mofect On-Site Search\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-06 16:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: inc/admin/index.php:27 inc/admin/index.php:37
+msgid "Action"
+msgstr ""
+
+#: inc/class-keyword.php:40
+msgid "Add New Keyword"
+msgstr ""
+
+#: inc/class-keyword.php:67
+msgid "Add New Keyword Category"
+msgstr ""
+
+#: inc/class-keyword.php:38
+msgctxt "add new on admin bar"
+msgid "Keyword"
+msgstr ""
+
+#: inc/class-keyword.php:37
+msgctxt "admin menu"
+msgid "OnSite Search"
+msgstr ""
+
+#: inc/widgets/searchbar.php:19
+msgid "Advanced search bar for On-Site Search"
+msgstr ""
+
+#: inc/class-search.php:218 inc/class-search.php:224
+#: inc/shortcodes/searchbar.php:65 inc/shortcodes/searchbar.php:165
+msgid "All"
+msgstr ""
+
+#: inc/class-keyword.php:62
+msgid "All Keyword Categories"
+msgstr ""
+
+#: inc/class-keyword.php:44
+msgid "All Keywords"
+msgstr ""
+
+#: inc/widgets/searchbar.php:139
+msgid "All Post Types"
+msgstr ""
+
+#: inc/admin/getting-started.php:23
+msgid ""
+"All post types are supported by default, you can specific one for the search "
+"result such as \"product\""
+msgstr ""
+
+#: inc/shortcodes/searchbar.php:117 inc/shortcodes/searchbar.php:208
+#: inc/widgets/searchbar.php:130
+msgid "Category"
+msgstr ""
+
+#: inc/class-keyword.php:132
+msgid "city"
+msgstr ""
+
+#: inc/class-keyword.php:131
+msgid "Country"
+msgstr ""
+
+#: inc/class-admin.php:118
+msgid "Dashboard"
+msgstr ""
+
+#: inc/class-keyword.php:129
+msgid "Date"
+msgstr ""
+
+#: inc/class-keyword.php:133
+msgid "Device"
+msgstr ""
+
+#: inc/admin/index.php:44
+msgid "Devices"
+msgstr ""
+
+#: inc/class-keyword.php:42
+msgid "Edit Keyword"
+msgstr ""
+
+#: inc/class-keyword.php:65
+msgid "Edit Keyword Category"
+msgstr ""
+
+#: inc/class-admin.php:177
+msgid "Enable Keyword Tracking"
+msgstr ""
+
+#: inc/class-admin.php:167
+msgid "Enable Live Search"
+msgstr ""
+
+#: inc/widgets/searchbar.php:160
+msgid "Extra Class:"
+msgstr ""
+
+#: inc/class-admin.php:197
+msgid "Featured Content"
+msgstr ""
+
+#: inc/widgets/searchbar.php:153
+msgid "From Newest to Oldest By Publish Time"
+msgstr ""
+
+#: inc/shortcodes/searchbar.php:129 inc/shortcodes/searchbar.php:219
+msgid "From Newsest to Oldest By Publish Time"
+msgstr ""
+
+#: inc/shortcodes/searchbar.php:130 inc/shortcodes/searchbar.php:220
+#: inc/widgets/searchbar.php:154
+msgid "From Oldest to Newest By Publish Time"
+msgstr ""
+
+#: inc/class-admin.php:128 inc/admin/getting-started.php:14
+msgid "Getting Started"
+msgstr ""
+
+#: inc/class-admin.php:161
+msgid "Global Settings"
+msgstr ""
+
+#: inc/shortcodes/searchbar.php:79 inc/shortcodes/searchbar.php:178
+msgid "Grid"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://mofect.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://mofect.com/demo/onsite-search"
+msgstr ""
+
+#: inc/shortcodes/searchbar.php:89 inc/shortcodes/searchbar.php:186
+msgid "If leave it empty, the label text will be hidden."
+msgstr ""
+
+#: inc/shortcodes/searchbar.php:99 inc/shortcodes/searchbar.php:194
+msgid "If leave it empty, the placeholder text will be hidden."
+msgstr ""
+
+#: inc/class-admin.php:168
+msgid ""
+"If you disable it, live search feature will be turned off on the global site."
+" "
+msgstr ""
+
+#: inc/class-admin.php:178
+msgid ""
+"If you enable the tracking feature, the keyword will be saved while the user "
+"is searching."
+msgstr ""
+
+#: inc/widgets/searchbar.php:115
+msgid "If you leave it empty, the label text will be hidden."
+msgstr ""
+
+#: inc/widgets/searchbar.php:121
+msgid "If you leave it empty, the placeholder text will be hidden."
+msgstr ""
+
+#: inc/admin/getting-started.php:47
+msgid ""
+"If you want to add the search bar as a widget to your page, just go to "
+"Appearance > Widgets, you will find On-Site Search Widget is available to "
+"use."
+msgstr ""
+
+#: inc/shortcodes/searchbar.php:118 inc/shortcodes/searchbar.php:209
+#: inc/widgets/searchbar.php:132
+msgid ""
+"If you want to limit the search result within the specific categories, "
+"please add the category slugs here, multiple categories should be separated "
+"by English comma."
+msgstr ""
+
+#: inc/class-keyword.php:130
+msgid "IP"
+msgstr ""
+
+#: inc/functions.php:24 inc/admin/index.php:24 inc/admin/index.php:34
+msgid "Keyword"
+msgstr ""
+
+#: inc/class-keyword.php:69
+msgid "Keyword Category"
+msgstr ""
+
+#: inc/class-keyword.php:85
+msgid "Keyword Setting"
+msgstr ""
+
+#: inc/class-keyword.php:111
+msgid "Keyword Statistics"
+msgstr ""
+
+#: inc/class-admin.php:61
+msgid "Keywords"
+msgstr ""
+
+#: inc/class-admin.php:69 inc/class-admin.php:70
+msgid "Keywords Categories"
+msgstr ""
+
+#: inc/class-admin.php:60
+msgid "Keywords List"
+msgstr ""
+
+#: inc/shortcodes/searchbar.php:88 inc/shortcodes/searchbar.php:185
+msgid "Label Text"
+msgstr ""
+
+#: inc/widgets/searchbar.php:113
+msgid "Label:"
+msgstr ""
+
+#: inc/shortcodes/searchbar.php:76 inc/shortcodes/searchbar.php:174
+msgid "Layout"
+msgstr ""
+
+#: inc/shortcodes/searchbar.php:78 inc/shortcodes/searchbar.php:177
+msgid "List"
+msgstr ""
+
+#: inc/admin/index.php:50
+msgid "Location"
+msgstr ""
+
+#. Author of the plugin
+msgid "Mofect"
+msgstr ""
+
+#. Name of the plugin
+msgid "Mofect On-Site Search"
+msgstr ""
+
+#: inc/class-admin.php:50
+msgid "Mofect Onsite Search"
+msgstr ""
+
+#: inc/class-admin.php:51
+msgid "Mofect Search"
+msgstr ""
+
+#: inc/admin/getting-started.php:46
+msgid ""
+"Mofect Search Bar is integrated into the popular page builder such as "
+"WPBakery Page Builder, KingComposer, Elementor and Beaver Builder. You can "
+"find Mofect Search element in these page builder panel, just drag it and "
+"drop to the page."
+msgstr ""
+
+#: inc/class-keyword.php:161
+msgid "Month"
+msgstr ""
+
+#: inc/class-keyword.php:41
+msgid "New Keyword"
+msgstr ""
+
+#: inc/class-keyword.php:68
+msgid "New Keyword Category Name"
+msgstr ""
+
+#: templates/mofect_search_none.php:11
+#, php-format
+msgid ""
+"No \"%s\" related things were found matching your selection, but we "
+"recommend the following content you may like."
+msgstr ""
+
+#: inc/class-keyword.php:48
+msgid "No keywords found in Trash."
+msgstr ""
+
+#: inc/class-keyword.php:47
+msgid "No keywords found."
+msgstr ""
+
+#: inc/class-admin.php:40
+msgid "No Records"
+msgstr ""
+
+#: templates/mofect_search_none.php:13
+msgid "No related things were found matching your selection. "
+msgstr ""
+
+#: inc/class-keyword.php:145
+msgid "No result"
+msgstr ""
+
+#: inc/widgets/searchbar.php:125
+msgid "Number of Result Per Page:"
+msgstr ""
+
+#: inc/shortcodes/searchbar.php:108 inc/shortcodes/searchbar.php:201
+msgid "Number of Results per Page"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/searchbar.php:18
+msgid "On-site Search"
+msgstr ""
+
+#: inc/shortcodes/searchbar.php:127 inc/shortcodes/searchbar.php:216
+msgid "Order"
+msgstr ""
+
+#: inc/widgets/searchbar.php:151
+msgid "Order:"
+msgstr ""
+
+#: inc/class-keyword.php:63
+msgid "Parent Keyword Category"
+msgstr ""
+
+#: inc/class-keyword.php:64
+msgid "Parent Keyword Category:"
+msgstr ""
+
+#: inc/class-keyword.php:46
+msgid "Parent Keywords:"
+msgstr ""
+
+#: inc/shortcodes/searchbar.php:98 inc/shortcodes/searchbar.php:193
+msgid "Placeholder Text"
+msgstr ""
+
+#: inc/widgets/searchbar.php:119
+msgid "Placeholder:"
+msgstr ""
+
+#: inc/class-admin.php:198
+msgid ""
+"Please add the featured post id, multiple ids should be separated by English "
+"comma."
+msgstr ""
+
+#: inc/admin/index.php:19
+msgid "Popular Keywords"
+msgstr ""
+
+#: inc/class-keyword.php:39
+msgctxt "portfolio"
+msgid "Add New Keyword"
+msgstr ""
+
+#: inc/shortcodes/searchbar.php:66 inc/shortcodes/searchbar.php:166
+#: inc/widgets/searchbar.php:140
+msgid "Post"
+msgstr ""
+
+#: inc/class-keyword.php:128 inc/shortcodes/searchbar.php:63
+#: inc/shortcodes/searchbar.php:162
+msgid "Post Type"
+msgstr ""
+
+#: inc/class-keyword.php:35
+msgctxt "post type general name"
+msgid "OnSite Search"
+msgstr ""
+
+#: inc/class-keyword.php:36
+msgctxt "post type singular name"
+msgid "Keyword"
+msgstr ""
+
+#: inc/widgets/searchbar.php:136
+msgid "Post Type:"
+msgstr ""
+
+#: inc/shortcodes/searchbar.php:67 inc/shortcodes/searchbar.php:167
+#: inc/widgets/searchbar.php:141
+msgid "Product"
+msgstr ""
+
+#: inc/admin/index.php:16
+msgid "Recent"
+msgstr ""
+
+#: templates/mofect_search_product.php:26
+msgid "Sale!"
+msgstr ""
+
+#: templates/mofect_searchbar.php:51
+msgid "Search"
+msgstr ""
+
+#: inc/class-keyword.php:61
+msgid "Search Keyword Categories"
+msgstr ""
+
+#: inc/class-keyword.php:45
+msgid "Search Keywords"
+msgstr ""
+
+#: inc/functions.php:23
+msgid "Search Product"
+msgstr ""
+
+#: inc/class-keyword.php:91
+msgid ""
+"Search the post title and assign the specific content to the result of this "
+"keyword. When the visitor searching this keyword, these posts will be "
+"suggested to the visitor."
+msgstr ""
+
+#: inc/admin/index.php:26 inc/admin/index.php:36
+msgid "Search Volume"
+msgstr ""
+
+#: inc/class-admin.php:78 inc/class-admin.php:79 inc/class-admin.php:123
+msgid "Settings"
+msgstr ""
+
+#: inc/class-admin.php:187
+msgid "Show Featured Content"
+msgstr ""
+
+#: inc/class-keyword.php:90
+msgid "Specific Content"
+msgstr ""
+
+#: inc/class-keyword.php:127 inc/admin/index.php:25 inc/admin/index.php:35
+msgid "Status"
+msgstr ""
+
+#: inc/class-keyword.php:143
+msgid "Success"
+msgstr ""
+
+#: inc/class-keyword.php:59
+msgctxt "taxonomy general name"
+msgid "Keyword Categories"
+msgstr ""
+
+#: inc/class-keyword.php:60
+msgctxt "taxonomy singular name"
+msgid "Keyword Category"
+msgstr ""
+
+#: inc/admin/getting-started.php:16
+msgid ""
+"Thanks for purchased Mofect On-Site Search plugin. There are three ways to "
+"use Mofect Search Bar on your site."
+msgstr ""
+
+#: inc/admin/getting-started.php:24
+msgid "The number of result will be appeared in the result list."
+msgstr ""
+
+#: inc/admin/getting-started.php:28
+msgid ""
+"The safe way to customize the search bar style is set the extra CSS selector "
+"with this parametor, then you can write your custom CSS in your theme as ."
+"your_custom_search{.....}"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin offers enhanced On-Site Search for your WordPress blog or "
+"WooCommerce online shop, response the value-based content when the visitors "
+"are searching on your site, help you improve the direction of content "
+"building or sales conversion rate effectively."
+msgstr ""
+
+#: inc/widgets/searchbar.php:108
+msgid "Title:"
+msgstr ""
+
+#: inc/class-keyword.php:164
+msgid "Today"
+msgstr ""
+
+#: inc/class-keyword.php:66
+msgid "Update Keyword Category"
+msgstr ""
+
+#: inc/admin/getting-started.php:31
+msgid ""
+"Use PHP function: <?php moss_searchbar($args);?>. If you want to replace the "
+"search form in your theme file, you can use this method and the following "
+"arguments you can use in this function and the usage as same as the "
+"shortcode "
+msgstr ""
+
+#: inc/admin/getting-started.php:18
+msgid ""
+"Use Shortcode: <code>[mofect_searchbar]</code> You can embed the shortcode "
+"to anywhere you want. The following parameters are available to use."
+msgstr ""
+
+#: templates/mofect_searchbar.php:63
+msgid "View all related results"
+msgstr ""
+
+#: inc/class-keyword.php:43
+msgid "View Keyword"
+msgstr ""
+
+#: inc/class-keyword.php:162
+msgid "Week"
+msgstr ""
+
+#: inc/class-admin.php:188
+msgid "When there's nothing in the search result, show the featured content."
+msgstr ""
+
+#: inc/class-keyword.php:160
+msgid "Year"
+msgstr ""
+
+#: inc/class-keyword.php:163
+msgid "Yesterday"
+msgstr ""
+
+#: inc/widgets/searchbar.php:162
+msgid "You can add extra CSS Class selector here"
+msgstr ""
+
+#: inc/admin/getting-started.php:27
+msgid ""
+"You can limit the search range within the specific categories, just add "
+"category slugs here, multiple category slugs should be separated by English "
+"comma."
+msgstr ""

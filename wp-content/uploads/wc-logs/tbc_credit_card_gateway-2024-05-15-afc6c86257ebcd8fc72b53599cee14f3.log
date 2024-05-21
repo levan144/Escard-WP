@@ -1,0 +1,107 @@
+2024-05-15T07:02:33+00:00 INFO Using merchant account GEL
+2024-05-15T07:02:33+00:00 INFO Order id: 5842 - amount: 15 981, language: GE
+2024-05-15T07:02:33+00:00 INFO Capture and save...
+2024-05-15T07:02:34+00:00 INFO Success ~ Order id: 5842 -> transaction id: pBbTdPclSx2IHpPXQVbnvnjFJLQ= obtained successfully, payment action: capture_and_save, redirecting...
+2024-05-15T07:03:50+00:00 NOTICE Icomming from TBC
+2024-05-15T07:03:50+00:00 INFO Checking transaction status for order id: 5842, merchant: GEL
+2024-05-15T07:03:50+00:00 INFO Card saved!
+2024-05-15T07:03:55+00:00 INFO  TBC capture complete! Card saved! transaction id: pBbTdPclSx2IHpPXQVbnvnjFJLQ=, order id: 5842
+2024-05-15T10:30:33+00:00 INFO Process subscription, order id: 5844
+2024-05-15T10:30:33+00:00 INFO Using merchant account GEL
+2024-05-15T10:30:33+00:00 INFO Capture a saved card...
+2024-05-15T10:30:39+00:00 INFO  TBC capture saved card complete! transaction id: 26j2mXjdMfS6Nczqt7yCbsrW7L8=, order id: 5844
+2024-05-15T10:32:23+00:00 INFO Using merchant account GEL
+2024-05-15T10:32:23+00:00 INFO Order id: 5845 - amount: 0 981, language: GE
+2024-05-15T10:32:23+00:00 INFO Capture and save...
+2024-05-15T10:32:24+00:00 INFO Success ~ Order id: 5845 -> transaction id: JNS5lQ8trTSkzG7LFPsP8KpPCpc= obtained successfully, payment action: capture_and_save, redirecting...
+2024-05-15T10:34:11+00:00 INFO Using merchant account GEL
+2024-05-15T10:34:11+00:00 INFO Order id: 5845 - amount: 0 981, language: GE
+2024-05-15T10:34:11+00:00 INFO Capture and save...
+2024-05-15T10:34:11+00:00 INFO Success ~ Order id: 5845 -> transaction id: pKqaphuHooW0J2PHzGcABB1FCVw= obtained successfully, payment action: capture_and_save, redirecting...
+2024-05-15T10:35:43+00:00 NOTICE Icomming from TBC
+2024-05-15T10:35:43+00:00 INFO Checking transaction status for order id: 5845, merchant: GEL
+2024-05-15T10:35:43+00:00 ERROR TBC did not return OK: {"RESULT":"FAILED","RESULT_CODE":"904","3DSECURE":"AUTHENTICATED","RRN":"413610846747","CARD_NUMBER":"5***********2081","RECC_PMNT_ID":"PIjt0BOJGWx6rZ1G","RECC_PMNT_EXPIRY":"0926"}
+2024-05-15T10:35:58+00:00 INFO Using merchant account GEL
+2024-05-15T10:35:58+00:00 INFO Order id: 5845 - amount: 0 981, language: GE
+2024-05-15T10:35:58+00:00 INFO Capture and save...
+2024-05-15T10:35:58+00:00 INFO Success ~ Order id: 5845 -> transaction id: m1TL8SxrpTSI29UPAVf79sTSDDY= obtained successfully, payment action: capture_and_save, redirecting...
+2024-05-15T10:37:05+00:00 NOTICE Icomming from TBC
+2024-05-15T10:37:05+00:00 INFO Checking transaction status for order id: 5845, merchant: GEL
+2024-05-15T10:37:05+00:00 ERROR TBC did not return OK: {"RESULT":"FAILED","RESULT_CODE":"904","3DSECURE":"AUTHENTICATED","RRN":"413610853755","CARD_NUMBER":"5***********2081","RECC_PMNT_ID":"hA2QbL7MUs9cFBz5","RECC_PMNT_EXPIRY":"0926"}
+2024-05-15T11:32:58+00:00 INFO Process subscription, order id: 5841
+2024-05-15T11:32:58+00:00 INFO Using merchant account GEL
+2024-05-15T11:32:58+00:00 INFO Capture a saved card...
+2024-05-15T11:33:04+00:00 ERROR Charging a saved card failed Response: {"TRANSACTION_ID":"zQ4mhHvscLhZ4X4pnSm1jJrrD0A=","RESULT":"FAILED","RESULT_CODE":"116"}
+2024-05-15T11:33:04+00:00 INFO  TBC capture saved card failed! transaction id: zQ4mhHvscLhZ4X4pnSm1jJrrD0A=, order id: 5841
+2024-05-15T11:36:59+00:00 INFO Using merchant account GEL
+2024-05-15T11:36:59+00:00 INFO Order id: 5849 - amount: 0 981, language: GE
+2024-05-15T11:36:59+00:00 INFO Capture and save...
+2024-05-15T11:36:59+00:00 INFO Success ~ Order id: 5849 -> transaction id: BlthGOLAnTcXAe4C4wayJCYQS5I= obtained successfully, payment action: capture_and_save, redirecting...
+2024-05-15T11:51:26+00:00 INFO Using merchant account GEL
+2024-05-15T11:51:26+00:00 INFO Order id: 5851 - amount: 0 981, language: GE
+2024-05-15T11:51:26+00:00 INFO Capture and save...
+2024-05-15T11:51:26+00:00 INFO Success ~ Order id: 5851 -> transaction id: ScPrBkz8cSBev9AfnPMAPSILTQ0= obtained successfully, payment action: capture_and_save, redirecting...
+2024-05-15T11:53:02+00:00 ERROR Technical failure in ECOMM system
+2024-05-15T11:53:08+00:00 ERROR Technical failure in ECOMM system
+2024-05-15T11:54:11+00:00 INFO Using merchant account GEL
+2024-05-15T11:54:11+00:00 INFO Order id: 5853 - amount: 0 981, language: GE
+2024-05-15T11:54:11+00:00 INFO Capture and save...
+2024-05-15T11:54:12+00:00 INFO Success ~ Order id: 5853 -> transaction id: 9fQ2gCkKtPEK35YUozSPdhwofa8= obtained successfully, payment action: capture_and_save, redirecting...
+2024-05-15T11:54:37+00:00 ERROR Technical failure in ECOMM system
+2024-05-15T12:09:39+00:00 INFO Using merchant account GEL
+2024-05-15T12:09:39+00:00 INFO Order id: 5855 - amount: 0 981, language: GE
+2024-05-15T12:09:39+00:00 INFO Capture and save...
+2024-05-15T12:09:39+00:00 INFO Success ~ Order id: 5855 -> transaction id: e0LpRlp8FPNIT8alEAetSLl1mC4= obtained successfully, payment action: capture_and_save, redirecting...
+2024-05-15T12:10:07+00:00 NOTICE Icomming from TBC
+2024-05-15T12:10:07+00:00 INFO Checking transaction status for order id: 5855, merchant: GEL
+2024-05-15T12:10:08+00:00 INFO Card saved!
+2024-05-15T12:10:09+00:00 NOTICE Icomming from TBC
+2024-05-15T12:10:09+00:00 CRITICAL TBC did not return trans_id in $_REQUEST on OK page
+2024-05-15T12:10:12+00:00 INFO  TBC capture complete! Card saved! transaction id: e0LpRlp8FPNIT8alEAetSLl1mC4=, order id: 5855
+2024-05-15T13:32:59+00:00 INFO Process subscription, order id: 5830
+2024-05-15T13:32:59+00:00 INFO Using merchant account GEL
+2024-05-15T13:32:59+00:00 INFO Capture a saved card...
+2024-05-15T13:33:06+00:00 INFO  TBC capture saved card complete! transaction id: oFbJEoBp1PLoQ0AVpIoh4EoF8Mo=, order id: 5830
+2024-05-15T13:40:30+00:00 INFO Using merchant account GEL
+2024-05-15T13:40:30+00:00 INFO Order id: 5857 - amount: 0 981, language: GE
+2024-05-15T13:40:30+00:00 INFO Capture and save...
+2024-05-15T13:40:30+00:00 INFO Success ~ Order id: 5857 -> transaction id: 4BqrYkmsLoFzZxPvog3LWxrXC1I= obtained successfully, payment action: capture_and_save, redirecting...
+2024-05-15T13:41:28+00:00 NOTICE Icomming from TBC
+2024-05-15T13:41:28+00:00 INFO Checking transaction status for order id: 5857, merchant: GEL
+2024-05-15T13:41:28+00:00 INFO Card saved!
+2024-05-15T13:41:33+00:00 INFO  TBC capture complete! Card saved! transaction id: 4BqrYkmsLoFzZxPvog3LWxrXC1I=, order id: 5857
+2024-05-15T17:17:38+00:00 INFO Using merchant account GEL
+2024-05-15T17:17:38+00:00 INFO Order id: 5859 - amount: 0 981, language: GE
+2024-05-15T17:17:38+00:00 INFO Capture and save...
+2024-05-15T17:17:38+00:00 INFO Success ~ Order id: 5859 -> transaction id: WfaP8PaPb6QiZmnWBeS6HS2A3Vg= obtained successfully, payment action: capture_and_save, redirecting...
+2024-05-15T17:28:47+00:00 INFO Process subscription, order id: 5861
+2024-05-15T17:28:47+00:00 INFO Using merchant account GEL
+2024-05-15T17:28:47+00:00 INFO Capture a saved card...
+2024-05-15T17:28:47+00:00 INFO Using merchant account GEL
+2024-05-15T17:28:47+00:00 INFO Order id: 5862 - amount: 0 981, language: GE
+2024-05-15T17:28:47+00:00 INFO Capture and save...
+2024-05-15T17:28:47+00:00 INFO Success ~ Order id: 5862 -> transaction id: hnNz1oEVAUvpIVHR3PaGn2D4Mnc= obtained successfully, payment action: capture_and_save, redirecting...
+2024-05-15T17:28:52+00:00 INFO  TBC capture saved card complete! transaction id: IvBMtrSVfwge0GJrMq3RJxP9nIU=, order id: 5861
+2024-05-15T17:30:01+00:00 NOTICE Icomming from TBC
+2024-05-15T17:30:01+00:00 INFO Checking transaction status for order id: 5862, merchant: GEL
+2024-05-15T17:30:02+00:00 INFO Card saved!
+2024-05-15T17:30:06+00:00 INFO  TBC capture complete! Card saved! transaction id: hnNz1oEVAUvpIVHR3PaGn2D4Mnc=, order id: 5862
+2024-05-15T21:15:25+00:00 INFO Process subscription, order id: 5864
+2024-05-15T21:15:25+00:00 INFO Using merchant account GEL
+2024-05-15T21:15:25+00:00 INFO Capture a saved card...
+2024-05-15T21:15:29+00:00 ERROR Charging a saved card failed Response: {"TRANSACTION_ID":"bAF4sFdU0eMODv8s4v0wTHsAmnc=","RESULT":"FAILED","RESULT_CODE":"116"}
+2024-05-15T21:15:29+00:00 INFO  TBC capture saved card failed! transaction id: bAF4sFdU0eMODv8s4v0wTHsAmnc=, order id: 5864
+2024-05-15T21:32:29+00:00 INFO Using merchant account GEL
+2024-05-15T21:32:29+00:00 INFO Order id: 5865 - amount: 0 981, language: GE
+2024-05-15T21:32:29+00:00 INFO Capture and save...
+2024-05-15T21:32:29+00:00 INFO Success ~ Order id: 5865 -> transaction id: TdlVSc72bOGcSSdPgrSIH0uPMKU= obtained successfully, payment action: capture_and_save, redirecting...
+2024-05-15T21:33:01+00:00 INFO Process subscription, order id: 5816
+2024-05-15T21:34:38+00:00 NOTICE Icomming from TBC
+2024-05-15T21:34:38+00:00 INFO Checking transaction status for order id: 5865, merchant: GEL
+2024-05-15T21:34:38+00:00 INFO Card saved!
+2024-05-15T21:34:42+00:00 INFO  TBC capture complete! Card saved! transaction id: TdlVSc72bOGcSSdPgrSIH0uPMKU=, order id: 5865
+2024-05-15T23:33:02+00:00 INFO Process subscription, order id: 5841
+2024-05-15T23:33:02+00:00 INFO Using merchant account GEL
+2024-05-15T23:33:02+00:00 INFO Capture a saved card...
+2024-05-15T23:33:06+00:00 ERROR Charging a saved card failed Response: {"TRANSACTION_ID":"ElxfvnUBeDIM0LWD6PWPooxUQxg=","RESULT":"FAILED","RESULT_CODE":"116"}
+2024-05-15T23:33:06+00:00 INFO  TBC capture saved card failed! transaction id: ElxfvnUBeDIM0LWD6PWPooxUQxg=, order id: 5841

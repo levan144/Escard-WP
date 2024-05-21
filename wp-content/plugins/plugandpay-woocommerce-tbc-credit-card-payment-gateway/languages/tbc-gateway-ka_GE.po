@@ -1,0 +1,378 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: WooCommerce TBC Credit Card Payment Gateway\n"
+"POT-Creation-Date: 2017-10-15 19:58+0400\n"
+"PO-Revision-Date: 2018-03-30 20:28+0400\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: plugandpay-woocommerce-tbc-credit-card-payment-gateway."
+"php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: Sandro Dzneladze <sandro@wearede.com>\n"
+"Language: ka_GE\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/gateway-settings.php:12
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/gateway-settings.php:14
+msgid "Enable Tbc"
+msgstr ""
+
+#: includes/gateway-settings.php:18
+msgid "Title"
+msgstr ""
+
+#: includes/gateway-settings.php:20
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: includes/gateway-settings.php:21
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:81
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:520
+msgid "Tbc"
+msgstr ""
+
+#: includes/gateway-settings.php:25
+msgid "Description"
+msgstr ""
+
+#: includes/gateway-settings.php:28
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: includes/gateway-settings.php:29
+msgid "Pay with your credit card via Tbc"
+msgstr ""
+
+#: includes/gateway-settings.php:32
+msgid "Debug Log"
+msgstr ""
+
+#: includes/gateway-settings.php:34
+msgid "Enable logging"
+msgstr ""
+
+#: includes/gateway-settings.php:36
+#, php-format
+msgid "Log Tbc events, such as IPN requests, inside <code>%s</code>"
+msgstr ""
+
+#: includes/gateway-settings.php:39
+msgid "Payment Action"
+msgstr ""
+
+#: includes/gateway-settings.php:42
+msgid ""
+"Choose whether you wish to capture funds immediately (SMS) or authorize "
+"payment only (DMS)."
+msgstr ""
+
+#: includes/gateway-settings.php:46
+msgid "Capture"
+msgstr ""
+
+#: includes/gateway-settings.php:47
+msgid "Authorize"
+msgstr ""
+
+#: includes/gateway-settings.php:51
+msgid "Ok"
+msgstr ""
+
+#: includes/gateway-settings.php:53
+#, php-format
+msgid "<code>%s</code> - communicate this OK url to TBC"
+msgstr ""
+
+#: includes/gateway-settings.php:54
+msgid "tbc/ok"
+msgstr ""
+
+#: includes/gateway-settings.php:57
+msgid "Fail"
+msgstr ""
+
+#: includes/gateway-settings.php:59
+#, php-format
+msgid "<code>%s</code> - communicate this FAIL url to TBC"
+msgstr ""
+
+#: includes/gateway-settings.php:60
+msgid "tbc/fail"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:80
+msgid "Proceed to payment"
+msgstr "გადახდის განხორციელება"
+
+#. Description of the plugin/theme
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:82
+msgid "Accept card payments in your WooCommerce shop using TBC gateway."
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:180
+#, php-format
+msgid ""
+"Tbc error: Please add at least one merchant account <a href=\"%s\">here</a>"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:191
+#, php-format
+msgid ""
+"Tbc error: All merchant account fields are required! please fix it <a href="
+"\"%s\">here</a>"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:222
+#, php-format
+msgid "Info ~ Start refund, Order id: %s - amount: %s"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:225
+msgid "Info ~ Refund not possible, order or transaction id missing."
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:237
+#, php-format
+msgid "Success ~ reversal done, transaction_id: %s"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:242
+#, php-format
+msgid "Success ~ refund done, transaction_id: %s"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:246
+#, php-format
+msgid "Error ~ refund failed, transaction_id: %s, merchant: %s"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:270
+#, php-format
+msgid "%s - Order %s"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:278
+#, php-format
+msgid ""
+"Info ~ Order id: %s - amount: %s (%s) %s -> %s (%s), language: %s, action: %s"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:295
+#, php-format
+msgid "Error ~ Order id: %s - Error msg: %s."
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:298
+#, php-format
+msgid "Error ~ Order id: %s - no TRANSACTION_ID from Tbc."
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:300
+msgid "Tbc did not return TRANSACTION_ID."
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:312
+#, php-format
+msgid "Success ~ Order id: %s -> transaction id: %s obtained successfully"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:317
+#, php-format
+msgid "Info ~ Order id: %s, redirecting user to Tbc gateway"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:321
+msgid "Success! redirecting to Tbc now ..."
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:340
+msgid "Error ~ Tbc did not return trans_id in $_REQUEST on OK page"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:341
+msgid "Tbc did not return transaction id!"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:347
+#, php-format
+msgid "Error ~ could not find order id associated with transaction id: %s"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:348
+msgid "We could not find your order id!"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:353
+#, php-format
+msgid "Error ~ could not find order associated with order id: %s"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:354
+msgid "We could not find your order!"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:368
+#, php-format
+msgid "Info ~ Icomming from TBC, order id: %s, merchant: %s"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:370
+#, php-format
+msgid "Error ~ could not verify transaction result, Tbc did not return OK: %s"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:371
+msgid ""
+"We could not verify transaction result, logs should contain more information "
+"about this failure."
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:385
+msgid "Tbc capture complete!"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:390
+msgid ""
+"Payment authorized. Change payment status to processing or complete to "
+"capture funds."
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:392
+msgid "Tbc authorizaion complete!"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:397
+#, php-format
+msgid "Success ~ %s transaction id: %s, order id: %s"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:424
+#, php-format
+msgid ""
+"Info ~ trying to capture authorized payment, order id: %s, merchant: %s, "
+"transaction id: %s"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:426
+#, php-format
+msgid "Error ~ could not capture authorized payment, Tbc did not return OK: %s"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:427
+msgid ""
+"We could not capture previously authorized (blocked) payment, logs should "
+"contain more information about this failure."
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:437
+#, php-format
+msgid "Success ~ authorized payment captured, transaction id: %s, order id: %s"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:451
+msgid "Technical faulure in ECOMM system"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:452
+#, php-format
+msgid "Error ~ %s"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:489
+msgid "Please click the submit button below."
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:523
+msgid "Transaction id"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:540
+#, php-format
+msgid "Info ~ close business day result: %s"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:584
+#, php-format
+msgid "Info ~ No merchant account for %s... searching for default."
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:589
+#, php-format
+msgid "Info ~ Using merchant account %s"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:592
+msgid "Error ~ No merchant account found!"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:606
+msgid "Merchant Accounts"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:612
+msgid "Certificate currency"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:612
+msgid "iso4217 Alpha3 currency code, e.g. EUR, GEL, USD"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:613
+msgid "Certificate path"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:613
+msgid "Absolute path to certificate in .pem format."
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:614
+msgid "Certificate passphrase"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:614
+msgid "Passphrase provided by TBC together with certificate."
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:615
+msgid "Default Certificate"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:615
+msgid ""
+"If currency selected in front-end does not match any merchant accounts "
+"default one will be used. This is a fallback."
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:638
+msgid "+ Add Account"
+msgstr ""
+
+#: plugandpay-woocommerce-tbc-credit-card-payment-gateway.php:638
+msgid "Remove selected account(s)"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce TBC Credit Card Payment Gateway"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://plugandpay.ge/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "PlugAndPay"
+msgstr ""

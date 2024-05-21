@@ -1,0 +1,9 @@
+<wpml-config>
+	<admin-texts>
+		<key name="woocommerce_tbc_credit_card_gateway_settings">
+			<key name="title" />
+			<key name="description" />
+			<key name="order_button_text" />
+		</key>
+	</admin-texts>
+</wpml-config>

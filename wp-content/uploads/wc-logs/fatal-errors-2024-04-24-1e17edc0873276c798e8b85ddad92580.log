@@ -1,0 +1,32 @@
+2024-04-24T16:17:29+00:00 CRITICAL შეცდომა: Uncaught ArgumentCountError: 2 arguments are required, 1 given in /home/javalge/escard.ge/wp-content/plugins/woocommerce/templates/emails/customer-processing-order.php:30
+Stack trace:
+#0 /home/javalge/escard.ge/wp-content/plugins/woocommerce/templates/emails/customer-processing-order.php(30): printf('\xE1\x83\x92\xE1\x83\x90\xE1\x83\xAA\xE1\x83\x9C\xE1\x83\x9D...')
+#1 /home/javalge/escard.ge/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/home/javalge/e...')
+#2 /home/javalge/escard.ge/wp-content/plugins/woocommerce/includes/wc-core-functions.php(364): wc_get_template('emails/customer...', Array, '', '')
+#3 /home/javalge/escard.ge/wp-content/plugins/woocommerce/includes/emails/class-wc-email-customer-processing-order.php(113): wc_get_template_html('emails/customer...', Array)
+#4 /home/javalge/escard.ge/wp-content/plugins/woocommerce/includes/emails/class-wc-email.php(588): WC_Email_Customer_Processing_Order->get_content_html()
+#5 /home/javalge/escard.ge/wp-content/plugins/woocommerce/includes/emails/class-wc-email-customer-processing-order.php(93): WC_Email->get_content()
+#6 /home/javalge/escard.ge/wp-includes/class-wp-hook.php(324): WC_Email_Customer_Processing_Order->trigger(5709, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#7 /home/javalge/escard.ge/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 /home/javalge/escard.ge/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#9 /home/javalge/escard.ge/wp-content/plugins/woocommerce/includes/class-wc-emails.php(170): do_action_ref_array('woocommerce_ord...', Array)
+#10 /home/javalge/escard.ge/wp-includes/class-wp-hook.php(324): WC_Emails::send_transactional_email(Array, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#11 /home/javalge/escard.ge/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#12 /home/javalge/escard.ge/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#13 /home/javalge/escard.ge/wp-content/plugins/woocommerce/includes/class-wc-order.php(404): do_action('woocommerce_ord...', 5709, Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#14 /home/javalge/escard.ge/wp-content/plugins/woocommerce/includes/class-wc-order.php(253): WC_Order->status_transition()
+#15 /home/javalge/escard.ge/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-order-data.php(714): WC_Order->save()
+#16 /home/javalge/escard.ge/wp-includes/class-wp-hook.php(326): WC_Meta_Box_Order_Data::save(5709)
+#17 /home/javalge/escard.ge/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#18 /home/javalge/escard.ge/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#19 /home/javalge/escard.ge/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-meta-boxes.php(263): do_action('woocommerce_pro...', 5709, Object(WP_Post))
+#20 /home/javalge/escard.ge/wp-includes/class-wp-hook.php(326): WC_Admin_Meta_Boxes->save_meta_boxes(5709, Object(WP_Post))
+#21 /home/javalge/escard.ge/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#22 /home/javalge/escard.ge/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#23 /home/javalge/escard.ge/wp-includes/post.php(4828): do_action('save_post', 5709, Object(WP_Post), true)
+#24 /home/javalge/escard.ge/wp-includes/post.php(4930): wp_insert_post(Array, false, true)
+#25 /home/javalge/escard.ge/wp-admin/includes/post.php(453): wp_update_post(Array)
+#26 /home/javalge/escard.ge/wp-admin/post.php(227): edit_post()
+#27 {main}
+  thrown, ფაილი: /home/javalge/escard.ge/wp-content/plugins/woocommerce/templates/emails/customer-processing-order.php, მწკრივი: 30
+

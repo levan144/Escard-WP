@@ -1,0 +1,29 @@
+2024-05-13T02:32:41+00:00 INFO Process subscription, order id: 5817
+2024-05-13T02:32:41+00:00 INFO Using merchant account GEL
+2024-05-13T02:32:41+00:00 INFO Capture a saved card...
+2024-05-13T02:32:47+00:00 INFO  TBC capture saved card complete! transaction id: hDuqEYa4Cw1yPkPKGx4QaCemlxo=, order id: 5817
+2024-05-13T04:32:42+00:00 INFO Process subscription, order id: 5833
+2024-05-13T04:32:42+00:00 INFO Using merchant account GEL
+2024-05-13T04:32:42+00:00 INFO Capture a saved card...
+2024-05-13T04:32:48+00:00 INFO  TBC capture saved card complete! transaction id: gquXdTybLR0G5EleJPntJjWzLZE=, order id: 5833
+2024-05-13T11:29:51+00:00 INFO Process subscription, order id: 5790
+2024-05-13T11:29:51+00:00 INFO Using merchant account GEL
+2024-05-13T11:29:51+00:00 INFO Capture a saved card...
+2024-05-13T11:29:57+00:00 INFO  TBC capture saved card complete! transaction id: sp7eAUw5K31rBo4vObBiIg3xhEg=, order id: 5790
+2024-05-13T13:32:44+00:00 INFO Process subscription, order id: 5830
+2024-05-13T13:32:44+00:00 INFO Using merchant account GEL
+2024-05-13T13:32:44+00:00 INFO Capture a saved card...
+2024-05-13T13:32:50+00:00 ERROR Charging a saved card failed Response: {"TRANSACTION_ID":"CVgNy33Hmr7vcFgYjplWeeuPNpg=","RESULT":"FAILED","RESULT_CODE":"116"}
+2024-05-13T13:32:50+00:00 INFO  TBC capture saved card failed! transaction id: CVgNy33Hmr7vcFgYjplWeeuPNpg=, order id: 5830
+2024-05-13T16:32:46+00:00 INFO Process subscription, order id: 5834
+2024-05-13T16:32:46+00:00 INFO Using merchant account GEL
+2024-05-13T16:32:46+00:00 INFO Capture a saved card...
+2024-05-13T16:32:52+00:00 INFO  TBC capture saved card complete! transaction id: PLIGnF8yG6asfiHpSMrO3foCJeQ=, order id: 5834
+2024-05-13T20:57:54+00:00 INFO Process subscription, order id: 5835
+2024-05-13T20:57:54+00:00 INFO Using merchant account GEL
+2024-05-13T20:57:54+00:00 INFO Capture a saved card...
+2024-05-13T20:58:03+00:00 INFO  TBC capture saved card complete! transaction id: oPoU9crMmOv2Q022e7gWi5STwas=, order id: 5835
+2024-05-13T22:32:48+00:00 INFO Process subscription, order id: 5836
+2024-05-13T22:32:48+00:00 INFO Using merchant account GEL
+2024-05-13T22:32:48+00:00 INFO Capture a saved card...
+2024-05-13T22:32:53+00:00 INFO  TBC capture saved card complete! transaction id: zalRgRSSU4wKiaRJS6Sa5d2lHfE=, order id: 5836

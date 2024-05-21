@@ -1,0 +1,30 @@
+2024-05-20T01:35:21+00:00 INFO Using merchant account GEL
+2024-05-20T01:35:21+00:00 INFO Order id: 5938 - amount: 0 981, language: GE
+2024-05-20T01:35:21+00:00 INFO Capture and save...
+2024-05-20T01:35:22+00:00 INFO Success ~ Order id: 5938 -> transaction id: tHP7NXHQBAhIu7uw9CZfPUfZ494= obtained successfully, payment action: capture_and_save, redirecting...
+2024-05-20T01:36:16+00:00 NOTICE Icomming from TBC
+2024-05-20T01:36:16+00:00 INFO Checking transaction status for order id: 5938, merchant: GEL
+2024-05-20T01:36:16+00:00 ERROR TBC did not return OK: {"RESULT":"FAILED","RESULT_CODE":"119","3DSECURE":"AUTHENTICATED","RRN":"414101142304","APPROVAL_CODE":"200249","CARD_NUMBER":"5***********8218","RECC_PMNT_ID":"wIILNkni87HOg6bF","RECC_PMNT_EXPIRY":"0526"}
+2024-05-20T01:36:29+00:00 INFO Using merchant account GEL
+2024-05-20T01:36:29+00:00 INFO Order id: 5938 - amount: 0 981, language: GE
+2024-05-20T01:36:29+00:00 INFO Capture and save...
+2024-05-20T01:36:29+00:00 INFO Success ~ Order id: 5938 -> transaction id: PjJwtogo8ZyW50HTSjbZx1Llim4= obtained successfully, payment action: capture_and_save, redirecting...
+2024-05-20T03:33:35+00:00 INFO Process subscription, order id: 5941
+2024-05-20T03:33:35+00:00 INFO Using merchant account GEL
+2024-05-20T03:33:35+00:00 INFO Capture a saved card...
+2024-05-20T03:33:40+00:00 INFO  TBC capture saved card complete! transaction id: 1KjVBX4MekPYqgvvKxl4fcuAwnY=, order id: 5941
+2024-05-20T14:45:24+00:00 INFO Using merchant account GEL
+2024-05-20T14:45:24+00:00 INFO Order id: 5942 - amount: 0 981, language: GE
+2024-05-20T14:45:24+00:00 INFO Capture and save...
+2024-05-20T14:45:24+00:00 INFO Success ~ Order id: 5942 -> transaction id: USRhgbzldLRm6tY5bvnGnAzCBdU= obtained successfully, payment action: capture_and_save, redirecting...
+2024-05-20T14:46:08+00:00 NOTICE Icomming from TBC
+2024-05-20T14:46:08+00:00 INFO Checking transaction status for order id: 5942, merchant: GEL
+2024-05-20T14:46:08+00:00 ERROR TBC did not return OK: {"RESULT":"FAILED","RESULT_CODE":"904","3DSECURE":"AUTHENTICATED","RRN":"414114132067","CARD_NUMBER":"5***********9107","RECC_PMNT_ID":"9B8Bv44r033YEsi3","RECC_PMNT_EXPIRY":"1126"}
+2024-05-20T15:18:29+00:00 INFO Process subscription, order id: 5944
+2024-05-20T15:18:29+00:00 INFO Using merchant account GEL
+2024-05-20T15:18:29+00:00 INFO Capture a saved card...
+2024-05-20T15:18:34+00:00 INFO  TBC capture saved card complete! transaction id: molysCpaSCMQdb7KmmyYrnNTbhE=, order id: 5944
+2024-05-20T18:22:21+00:00 INFO Process subscription, order id: 5945
+2024-05-20T18:22:21+00:00 INFO Using merchant account GEL
+2024-05-20T18:22:21+00:00 INFO Capture a saved card...
+2024-05-20T18:22:26+00:00 INFO  TBC capture saved card complete! transaction id: aiTBklSRqMRgccGLgsrOhRKzqVk=, order id: 5945

@@ -1,0 +1,19 @@
+{
+    "name": "plugandpay/plugandpay-woocommerce-tbc-credit-card-payment-gateway",
+    "type": "wordpress-plugin",
+    "license": "https://plugandpay.ge/eula",
+    "authors": [
+        {
+            "name": "Plug and Pay Ltd.",
+            "email": "support@plugandpay.ge"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "includes/"
+        ]
+    },
+    "require": {
+        "wearede/tbcpay-php": "^0.11"
+    }
+}

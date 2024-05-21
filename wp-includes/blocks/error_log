@@ -1,0 +1,164 @@
+[05-Feb-2023 23:08:07 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[05-Feb-2023 23:12:08 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[05-Feb-2023 23:16:06 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[05-Feb-2023 23:19:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[16-Feb-2023 17:53:38 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[16-Feb-2023 20:26:42 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[17-Feb-2023 07:18:01 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[17-Feb-2023 07:44:28 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[11-Apr-2023 00:03:52 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[11-Apr-2023 02:02:42 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[11-Apr-2023 02:28:34 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[11-Apr-2023 04:39:01 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[03-Jun-2023 04:17:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[03-Jun-2023 04:24:23 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[03-Jun-2023 04:31:20 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[03-Jun-2023 04:37:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[08-Jun-2023 22:54:21 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[09-Jun-2023 02:50:20 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[09-Jun-2023 09:02:21 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[09-Jun-2023 09:28:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[19-Jun-2023 09:20:20 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[02-Jul-2023 03:21:47 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[04-Jul-2023 10:16:10 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[04-Jul-2023 10:37:13 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[04-Jul-2023 10:59:18 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[04-Jul-2023 11:16:46 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[07-Jul-2023 09:35:02 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[23-Jul-2023 00:48:05 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[23-Jul-2023 01:00:54 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[23-Jul-2023 01:13:58 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[23-Jul-2023 01:26:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[08-Aug-2023 03:25:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[11-Aug-2023 04:32:16 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[19-Aug-2023 09:08:46 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[30-Aug-2023 22:11:27 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[30-Aug-2023 22:21:17 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[30-Aug-2023 22:28:05 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[30-Aug-2023 22:37:36 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[26-Sep-2023 01:12:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[13-Oct-2023 10:28:50 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8
+[16-Oct-2023 03:22:15 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-includes/blocks/index.php on line 8

@@ -1,0 +1,64 @@
+[10-Jul-2023 09:44:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/netridig/public_html/escard.ge/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-admin/includes/admin.php on line 16
+[10-Jul-2023 09:44:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/netridig/public_html/escard.ge/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-admin/includes/admin.php on line 16
+[12-Jul-2023 03:12:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/netridig/public_html/escard.ge/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-admin/includes/admin.php on line 16
+[12-Jul-2023 03:12:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/netridig/public_html/escard.ge/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-admin/includes/admin.php on line 16
+[12-Jul-2023 03:15:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/netridig/public_html/escard.ge/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-admin/includes/admin.php on line 16
+[12-Jul-2023 03:15:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/netridig/public_html/escard.ge/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-admin/includes/admin.php on line 16
+[12-Jul-2023 04:08:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/netridig/public_html/escard.ge/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-admin/includes/admin.php on line 16
+[12-Jul-2023 04:08:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/netridig/public_html/escard.ge/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-admin/includes/admin.php on line 16
+[10-Sep-2023 07:20:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/netridig/public_html/escard.ge/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-admin/includes/admin.php on line 16
+[10-Sep-2023 07:21:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/netridig/public_html/escard.ge/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-admin/includes/admin.php on line 16
+[13-Sep-2023 00:39:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/netridig/public_html/escard.ge/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-admin/includes/admin.php on line 16
+[13-Sep-2023 00:39:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/netridig/public_html/escard.ge/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-admin/includes/admin.php on line 16
+[13-Sep-2023 01:27:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/netridig/public_html/escard.ge/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-admin/includes/admin.php on line 16
+[13-Sep-2023 01:27:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/netridig/public_html/escard.ge/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-admin/includes/admin.php on line 16
+[13-Sep-2023 19:32:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/netridig/public_html/escard.ge/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-admin/includes/admin.php on line 16
+[13-Sep-2023 19:32:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/netridig/public_html/escard.ge/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/netridig/public_html/escard.ge/wp-admin/includes/admin.php on line 16
